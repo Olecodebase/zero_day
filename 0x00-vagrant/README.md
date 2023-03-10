@@ -1,0 +1,2 @@
+uname
+Prints Linux
